@@ -12,8 +12,8 @@
 ## - [Scatter Plot with Matplotlib ](https://levelup.gitconnected.com/scatter-plot-with-matplotlib-in-python-abb1a6ad042?source=your_stories_page-------------------------------------)
 ## - [Bar Plot with Matplotlib in Python](https://levelup.gitconnected.com/bar-plot-with-matplotlib-in-python-aa98f2493847?source=your_stories_page-------------------------------------)
 ## - [Histograms with Matplotlib in Python](https://medium.com/swlh/histograms-with-matplotlib-in-python-fc6702a9cb9b?source=your_stories_page-------------------------------------)
-## - [Data Visualization with Pandas - 1]()
-## - [Data Visualization with Pandas - 2]()
+## - Data Visualization with Pandas - 1
+## - Data Visualization with Pandas - 2
 
 ****
 
