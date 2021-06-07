@@ -1,4 +1,6 @@
-# Hello 😄
+# Hello 😄 Welcome to Data Visualization Tutorial 
+
+![](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 ## Here you can find data sets and Jupyter Notebooks on the topics I explained below.
 
@@ -12,8 +14,8 @@
 ## - [Scatter Plot with Matplotlib ](https://levelup.gitconnected.com/scatter-plot-with-matplotlib-in-python-abb1a6ad042?source=your_stories_page-------------------------------------)
 ## - [Bar Plot with Matplotlib in Python](https://levelup.gitconnected.com/bar-plot-with-matplotlib-in-python-aa98f2493847?source=your_stories_page-------------------------------------)
 ## - [Histograms with Matplotlib in Python](https://medium.com/swlh/histograms-with-matplotlib-in-python-fc6702a9cb9b?source=your_stories_page-------------------------------------)
-## - Data Visualization with Pandas - 1
-## - Data Visualization with Pandas - 2
+## - [Data Visualization with Pandas - Part 1](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-1-98582b69ee8b)
+## - [Data Visualization with Pandas - Part 2](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-part-2-2cc8674da1d0)
 
 ****
 
