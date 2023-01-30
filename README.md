@@ -1,8 +1,8 @@
-# Hello 😄 Welcome to Data Visualization Tutorial 
+# Hi guys 😄 Welcome to Data Visualization Tutorial 
 
 ![](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-## Here you can find data sets and Jupyter Notebooks on the topics I explained below.
+This repo contains datasets and Jupyter Notebooks on the topics I explained below.
 
 ## Medium 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
