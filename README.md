@@ -2,7 +2,11 @@
 
 ![](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-This repo contains datasets and Jupyter Notebooks on the topics I explained below.
+Data visualization is a crucial part of data analysis, as it allows us to better understand and communicate patterns, trends, and insights in our data. This repository is designed to provide a comprehensive guide to data visualization using Python. 
+
+In this tutorial, we will start with an introduction to the basics of data visualization and then dive into using pandas, matplotlib, and seaborn to create a variety of visualizations. We will cover how to load data into pandas, manipulate it for visualization, and create different types of charts and plots using matplotlib and seaborn.
+
+Whether you are a data analyst, data scientist, or just someone interested in learning about data visualization, this tutorial will provide you with the tools and knowledge you need to create effective and impactful visualizations in Python. We hope you find this tutorial helpful and informative, and we welcome your feedback and contributions to this repository!
 
 Medium 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
