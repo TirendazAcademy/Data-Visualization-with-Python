@@ -8,7 +8,7 @@ In this tutorial, we will start with an introduction to the basics of data visua
 
 Whether you are a data analyst, data scientist, or just someone interested in learning about data visualization, this tutorial will provide you with the tools and knowledge you need to create effective and impactful visualizations in Python. We hope you find this tutorial helpful and informative, and we welcome your feedback and contributions to this repository!
 
-Medium 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+[![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
 - [Introduction to Matplotlib](https://medium.com/star-gazers/introduction-to-matplotlib-ca6b1bba0049?source=your_stories_page-------------------------------------)
 - [Matplotlib Tutorial for Beginners](https://medium.com/swlh/matplotlib-tutorial-for-beginners-2f07184668be?source=your_stories_page-------------------------------------)
@@ -21,9 +21,7 @@ Medium 👉  [![](https://img.shields.io/badge/Medium-English-purple.svg?&logo=m
 - [Data Visualization with Pandas - Part 1](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-1-98582b69ee8b)
 - [Data Visualization with Pandas - Part 2](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-part-2-2cc8674da1d0)
 
-****
-
-## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
+[![](https://img.shields.io/badge/YouTube-Turkish-darkred?&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 
 
 - [Introduction to Matplotlib](https://www.youtube.com/watch?v=wcSLRBBjJY4&list=PLfMRLSpipmftxkCN8pd3MFcBObhSpNW2c&index=1)
